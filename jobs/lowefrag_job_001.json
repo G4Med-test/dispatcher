@@ -1,0 +1,13 @@
+{
+  "job_id": "lowefrag_job_001",
+  "repository": "G4Med-test/LowEFrag",
+  "commit": "main",
+  "container_image": "ghcr.io/g4med-test/lowefrag:latest",
+  "input_folder": "macro",
+  "output_folder": "output",
+  "priority": 1,
+  "assigned_server": "any",
+  "timestamp": "2025-03-22T00:00:00Z",
+  "retry_count": 0,
+  "notes": "Run all macro files for LowEFrag."
+}
